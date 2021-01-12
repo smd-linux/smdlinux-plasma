@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smdlinux-plasma
+SMD-Linux Desktop Settings for Plasma

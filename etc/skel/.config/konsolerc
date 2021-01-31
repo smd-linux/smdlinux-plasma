@@ -1,15 +1,12 @@
 [Desktop Entry]
-DefaultProfile=smdlinux.profile
-
-[Favorite Profiles]
-Favorites=
+DefaultProfile=smdlinux1.profile
 
 [KonsoleWindow]
-ShowMenuBarByDefault=false
+SaveGeometryOnExit=false
 
 [MainWindow]
-Height 1080=574
-MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAzUAAAI+AAAABAAAAAQAAAAIAAAACPwAAAAA
+DisplayPort-0 XPosition=448
+DisplayPort-0 YPosition=271
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA/8AAAI8AAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1920=821
